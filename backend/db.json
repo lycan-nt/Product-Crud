@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC 2",
+      "price": "6.70"
+    },
+    {
+      "id": 3,
+      "name": "Mause",
+      "price": 35
+    },
+    {
+      "name": "product Teste",
+      "price": 150.69,
+      "id": 4
+    },
+    {
+      "name": "Chaveiro",
+      "price": 100,
+      "id": 5
+    }
+  ]
+}
